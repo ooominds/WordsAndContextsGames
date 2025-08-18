@@ -9,7 +9,8 @@ This repository contains the code and the stored result-objects for the analyses
 ### Contents
 
 + `mv_brm_lmer_R1.R` — The main R code file.  
-  **Note:** All code lines are commented out, as running the full analyses requires high-performance computing infrastructure.
+  **Note:** All code lines are commented out, as running the full analyses requires access to high-performance computing infrastructure.  
+  For convenience, model results are saved as pre-computed R objects, available from the UBIRA repository (see link below), due to their large size.
 
 ### Data Summary
 
