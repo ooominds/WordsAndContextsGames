@@ -10,10 +10,6 @@ This repository contains the code and the stored result-objects for the analyses
 
 + `mv_brm_lmer_R1.R` — The main R code file.  
   **Note:** All code lines are commented out, as running the full analyses requires high-performance computing infrastructure.
-+ `brm.lmer_R1.rda` — The main result object file.  
-**Note:** Due to its size (640MB) it ought to be deposited on UBIRA data repository (see below).
-+ `summary.brm.lmer_R1.rda` — The summary results table.
-+ `posteriorSum.brm.lmer_R1.rda` — The posterior draws summaries.
 
 ### Data Summary
 
